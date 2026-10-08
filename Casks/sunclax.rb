@@ -4,7 +4,7 @@ cask "sunclax" do
 
   url "https://dl.maxclax.com/Sunclax-#{version}.dmg"
   name "Sunclax"
-  desc "Keystroke counter and typing trainer that never records what you type"
+  desc "Touch-typing trainer with lessons built from the letters you type most"
   homepage "https://maxclax.com/sunclax/"
 
   livecheck do
