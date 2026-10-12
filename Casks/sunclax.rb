@@ -1,6 +1,6 @@
 cask "sunclax" do
-  version "2026.10.44"
-  sha256 "6e617a148e1a93e8f7ad90d62a6b5099734c304710c68e18dc016937094d3b66"
+  version "2026.10.45"
+  sha256 "533ea2765afafa803a41356b6456b52cd2adfa10b8204cff161c589f62ad09c7"
 
   url "https://dl.maxclax.com/Sunclax-#{version}.dmg"
   name "Sunclax"
