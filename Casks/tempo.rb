@@ -1,6 +1,6 @@
 cask "tempo" do
-  version "2026.10.6"
-  sha256 "2ff140d86f072dae4b990551118ec8e5217428bedae00c6ce2198c6fdc7af050"
+  version "2026.10.7"
+  sha256 "d945811a085d4f1699a24057640a6cbba945c27ca4c1bb5bd29181ccb08396ae"
 
   url "https://dl.maxclax.com/Tempo-#{version}.dmg"
   name "Triada Tempo"
